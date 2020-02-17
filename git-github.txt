@@ -1,0 +1,13 @@
+
+
+github에 가입
+repository 생성
+git 다운 및 설치
+설치후 명령프롬포트에서 git 명령어 사용 가능함
+git --version
+git config --global user.name  CrystalHA87
+git config --global user.email hsj@etri.re.kr
+컴에 디렉토리 생성 
+생성된 폴더로 이동
+git clone https://github.com/CrystalHA87/Git-Tutorial.git
+생성된 폴더에 github와 같은 폴더가 생김
