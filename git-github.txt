@@ -1,13 +1,16 @@
 
 
-github¿¡ °¡ÀÔ
-repository »ı¼º
-git ´Ù¿î ¹× ¼³Ä¡
-¼³Ä¡ÈÄ ¸í·ÉÇÁ·ÒÆ÷Æ®¿¡¼­ git ¸í·É¾î »ç¿ë °¡´ÉÇÔ
+githubì— ê°€ì…
+repository ìƒì„±
+git ë‹¤ìš´ ë° ì„¤ì¹˜
+ì„¤ì¹˜í›„ ëª…ë ¹í”„ë¡¬í¬íŠ¸ì—ì„œ git ëª…ë ¹ì–´ ì‚¬ìš© ê°€ëŠ¥í•¨
 git --version
 git config --global user.name  CrystalHA87
 git config --global user.email hsj@etri.re.kr
-ÄÄ¿¡ µğ·ºÅä¸® »ı¼º 
-»ı¼ºµÈ Æú´õ·Î ÀÌµ¿
+ì»´ì— ë””ë ‰í† ë¦¬ ìƒì„± 
+ìƒì„±ëœ í´ë”ë¡œ ì´ë™
 git clone https://github.com/CrystalHA87/Git-Tutorial.git
-»ı¼ºµÈ Æú´õ¿¡ github¿Í °°Àº Æú´õ°¡ »ı±è
+ìƒì„±ëœ í´ë”ì— githubì™€ ê°™ì€ í´ë”ê°€ ìƒê¹€
+git add git-github.txt
+git commit -m "add text file [git-github.txt]"
+git push
