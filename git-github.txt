@@ -18,7 +18,10 @@ git push
 
 github의 내용을 로컬에 반영
 git pull
-수정 후 다시 commit
 
+로컬의 화일의 내용을 수정 후
+git add git-github.txt
+git commit -m "add text file [git-github.txt]"
+git push 반복함
 
 
