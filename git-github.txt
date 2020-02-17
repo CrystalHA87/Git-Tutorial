@@ -1,4 +1,4 @@
-
+﻿
 
 github에 가입
 repository 생성
@@ -9,8 +9,16 @@ git config --global user.name  CrystalHA87
 git config --global user.email hsj@etri.re.kr
 컴에 디렉토리 생성 
 생성된 폴더로 이동
+git init
 git clone https://github.com/CrystalHA87/Git-Tutorial.git
 생성된 폴더에 github와 같은 폴더가 생김
 git add git-github.txt
 git commit -m "add text file [git-github.txt]"
 git push
+
+github의 내용을 로컬에 반영
+git pull
+수정 후 다시 commit
+
+
+
